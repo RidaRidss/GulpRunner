@@ -1,5 +1,5 @@
 /**
- * Created by Jnuaid on 7/1/2015.
+ * Created by Rida on 7/1/2015.
  */
 
 //var gulp=require('gulp');   //ist of all we have to import gulp using require('gulp') for all tasks
@@ -31,13 +31,13 @@
 //    [16:49:12] Using gulpfile ~\Desktop\Gulp-Tasks\gulpfile.js
 //    [16:49:12] Starting 'hello1'...
 //    Hel
-//    [16:49:12] Finished 'hello1' after 638 µs
+//    [16:49:12] Finished 'hello1' after 638 Âµs
 //    [16:49:12] Starting 'hello2'...
 //    lo
-//    [16:49:12] Finished 'hello2' after 449 µs
+//    [16:49:12] Finished 'hello2' after 449 Âµs
 //    [16:49:12] Starting 'hello3'...
 //    World
-//    [16:49:12] Finished 'hello3' after 287 µs
+//    [16:49:12] Finished 'hello3' after 287 Âµs
 
 
 
